@@ -1,3 +1,6 @@
+Manuel
+---------------------------------------------------------------------------------------------------------------------------
+
 declare @varFYear                 varchar(4), @varFMes int,                              @varFechaInicioCarga varchar(8), 
            @varFechaTopeCarga     varchar(8), @varSemana     int,                              @FechaHoy varchar(8),
            @FechaHoy_dt           datetime,    @FechaTraspasoOracle varchar(8),    @FechaTraspasoOracle_dt datetime,
