@@ -1,4 +1,4 @@
-Manuel
+Manuel Maldonado
 ---------------------------------------------------------------------------------------------------------------------------
 
 declare @varFYear                 varchar(4), @varFMes int,                              @varFechaInicioCarga varchar(8), 
